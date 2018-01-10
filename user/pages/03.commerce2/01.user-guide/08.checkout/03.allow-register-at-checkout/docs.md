@@ -34,7 +34,7 @@ With a Boostrap theme your page will look something like the below:
 
 ![Allow box checked user view](commerce2-checkout-allow-registration-bootstrap.png)
 
-To **Deny Registraion at Checkout**
+To **Deny Registration at Checkout**
  - Click the cog icon in the **Login or continue as guest**
  - Uncheck the **Allow guest checkout** box
  - Uncheck the **Allow registration** box
